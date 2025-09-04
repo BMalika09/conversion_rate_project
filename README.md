@@ -1,4 +1,4 @@
-# conversion_rate_project
+# Conversion_rate_challenge
 
 # Project 🚧
 
@@ -56,4 +56,5 @@ Your team should provide:
 
 
 ⚠️ Please note: this is a **school project** carried out as part of a **data science diploma**.
+
 ---
