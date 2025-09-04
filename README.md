@@ -53,7 +53,7 @@ Your team should provide:
 - 📈 At least one **submission** to the leaderboard  
 - 📝 An **analysis of the best model’s parameters**, with recommendations to improve the conversion rate in the future  
 
-
+---
 
 ⚠️ Please note: this is a **school project** carried out as part of a **data science diploma**.
 
